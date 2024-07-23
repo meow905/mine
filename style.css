@@ -153,6 +153,10 @@ body {
     margin: 15px 0 15px 0;
   }
 
+  .content_list ul ul {
+    font-size:14px;
+  }
+
   .container .third_list img {
     margin-bottom: 18px;
   }
