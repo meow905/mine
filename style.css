@@ -152,12 +152,10 @@ body {
     width: 360px;
     margin: 15px 0 15px 0;
   }
-
-.content_list ul .first_list,
-.second_list,
-.third_list {
-  font-size:18px;
-}
+  .content_list .first_list li {
+    font-size:18px;
+  }
+   
 
   .container .third_list img {
     margin-bottom: 18px;
