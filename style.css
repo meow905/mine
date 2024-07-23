@@ -121,7 +121,13 @@ body {
     display: grid;
     transform: translateX(-10%);
   }
+
+  .container .content h1 {
+    font-size:18px;
+  }
+  
   .container .content p:first-of-type {
+    font-size:16px;
     width: 400px;
   }
 
@@ -132,17 +138,18 @@ body {
 
   .container .content_2:first-child {
     position: relative;
-    left: 30px;
+    left: 10px;
     top: 20px;
   }
 
   .container .content_2:last-child {
     position: relative;
-    right: 50px;
+    right: 40px;
     top: 20px;
   }
 
   .content_list ul {
+    font-size:12px;
     width: 400px;
     margin: 15px 0 15px 0;
   }
