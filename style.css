@@ -153,9 +153,11 @@ body {
     margin: 15px 0 15px 0;
   }
 
-  .content_list ul ul {
-    font-size:5px;
-  }
+.content_list ul .first_list,
+.second_list,
+.third_list {
+  font-size:12px;
+}
 
   .container .third_list img {
     margin-bottom: 18px;
